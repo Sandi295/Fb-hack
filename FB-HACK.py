@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# Mod by: SSSSSSSS
 # team: life of programmer
 
 
@@ -47,10 +47,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: SSSSSSSS             |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print Y+"                |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
